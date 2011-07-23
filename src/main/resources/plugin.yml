@@ -1,0 +1,7 @@
+name: MapBook
+main: com.sk89q.mapbook.MapBookPlugin
+version: "${project.version}"
+commands:
+    mapbook:
+        description: MapBook commands
+        usage: /<command> <arguments...>
